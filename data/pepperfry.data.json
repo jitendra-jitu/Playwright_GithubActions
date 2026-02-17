@@ -1,0 +1,15 @@
+{
+  "siteUrl": "https://www.pepperfry.com/",
+  "expectedTitle": "Buy Furniture & Home Decor Online – Up to 70% Off at Best Prices in India | Pepperfry",
+  "categories": {
+    "menu": "Furniture",
+    "subPanel": "bottom",
+    "setteesAndBenchesHrefEndsWith": "/category/settees-and-benches.html"
+  },
+  "filters": {
+    "material": "Metal"
+  },
+  "screenshots": {
+    "listingContainer": "screenshot.png"
+  }
+}

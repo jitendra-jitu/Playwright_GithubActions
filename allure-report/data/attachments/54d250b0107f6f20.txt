@@ -1,0 +1,5 @@
+Settees: 14
+Benches: 115
+Recamiers: 22
+Saved screenshot: output/screenshots/screenshot.png
+count: 3
