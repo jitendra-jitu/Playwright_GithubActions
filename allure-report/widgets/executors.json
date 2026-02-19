@@ -1,1 +1,1 @@
-[{"name":"Jenkins","type":"jenkins","url":"http://localhost:8080/","buildOrder":40,"buildName":"SDTET CICD-1 #40","buildUrl":"http://localhost:8080/job/SDTET%20CICD-1/40/","reportName":"AllureReport","reportUrl":"http://localhost:8080/job/SDTET%20CICD-1/40/allure"}]
+[{"name":"Jenkins","type":"jenkins","url":"http://localhost:8080/","buildOrder":49,"buildName":"SDTET CICD-1 #49","buildUrl":"http://localhost:8080/job/SDTET%20CICD-1/49/","reportName":"AllureReport","reportUrl":"http://localhost:8080/job/SDTET%20CICD-1/49/allure"}]
