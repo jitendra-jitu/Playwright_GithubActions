@@ -1,1 +1,1 @@
-[]
+[{"name":"Jenkins","type":"jenkins","url":"http://localhost:8080/","buildOrder":40,"buildName":"SDTET CICD-1 #40","buildUrl":"http://localhost:8080/job/SDTET%20CICD-1/40/","reportName":"AllureReport","reportUrl":"http://localhost:8080/job/SDTET%20CICD-1/40/allure"}]

@@ -1,7 +1,7 @@
 import { test, expect } from '../fixtures/test-fixtures';
 import testData from "../data/pepperfry.data.json"
 
-test('Mini Project - Pepperfry flow with same locators', async ({
+test('@smoke @sanity Mini Project - Pepperfry flow with same locators', async ({
   page,
   homePage,
   furniturePage,
